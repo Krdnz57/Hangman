@@ -8,3 +8,11 @@ informatics
 business
 security
 analytics
+technology
+engineering
+computer
+system
+process
+data
+science
+intelligence
